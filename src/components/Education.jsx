@@ -17,8 +17,8 @@ const education = [
     institution: 'Sangamitta Balika Vidyalaya',
     degree: 'Secondary Education',
     status: 'Completed',
-    color: 'from-pink-500 to-rose-500',
-    glow: 'shadow-pink-500/30',
+    color: 'from-purple-500 to-violet-600',
+    glow: 'shadow-purple-500/30',
   },
   {
     icon: BookOpen,
@@ -26,8 +26,8 @@ const education = [
     institution: "Rippon Girls' College",
     degree: 'Primary & Lower Secondary',
     status: 'Completed',
-    color: 'from-sky-400 to-blue-500',
-    glow: 'shadow-sky-500/30',
+    color: 'from-purple-500 to-violet-600',
+    glow: 'shadow-purple-500/30',
   },
 ];
 
