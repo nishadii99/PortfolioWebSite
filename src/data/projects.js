@@ -1,5 +1,15 @@
 export const projects = [
   {
+  name: "Python Group Project – Data Processing & Analysis Tool",
+  repo: "Python-group-project",
+  description: "A collaborative Python-based project focused on data processing, analysis, and problem-solving using core Python concepts and libraries.",
+  language: "Python",
+  langColor: "#3572A5",
+  url: "https://github.com/sachinthaNavindu/Python-group-project",
+  tags: ["Python", "Data Processing", "Group Project", "Problem Solving"],
+  featured: true,
+},
+  {
     name: "Go Web Scraper API – Link & Image Extraction Tool",
     repo: "Go-Project",
     description: "A Go-based web scraper API built with Gin and Colly to extract links, images, and page titles from any website.",
@@ -110,6 +120,8 @@ export const skills = [
   { name: "CSS / SCSS", level: 85, color: "#264de4" },
   { name: "React", level: 72, color: "#61dafb" },
   { name: "Node.js", level: 65, color: "#68a063" },
+  { name: "Python", level: 70, color: "#3572A5" },
+  { name: "Go", level: 50, color: "#00ADD8" },
 ];
 
 export const profile = {
