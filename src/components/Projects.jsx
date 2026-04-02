@@ -15,7 +15,7 @@ const LANG_COLORS = {
 export default function Projects() {
   const ref = useRef(null);
   const [filter, setFilter] = useState('All');
-  const filters = ['All', 'Featured', 'JavaScript', 'TypeScript', 'Java', 'HTML'];
+  const filters = ['All', 'Featured', 'JavaScript', 'TypeScript', 'Java', 'HTML', 'CSS', 'Python', 'Go'];
 
   useEffect(() => {
     const observer = new IntersectionObserver(
