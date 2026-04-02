@@ -53,7 +53,7 @@ const sphereItems = [
 
 /* ─── skill categories for cards ──────────────────────────────── */
 const skillCategories = [
-  { label: 'Languages',     color: '#f7df1e', skills: ['Java', 'Python', 'JavaScript (ES6+)', 'TypeScript', 'SQL', 'HTML5', 'CSS3'] },
+  { label: 'Languages',     color: '#f7df1e', skills: ['Java', 'Python', 'JavaScript (ES6+)', 'TypeScript', 'SQL', 'HTML5', 'CSS3', 'Go'] },
   { label: 'Frontend',      color: '#61dafb', skills: ['React.js', 'Next.js', 'Redux', 'Tailwind CSS', 'Bootstrap', 'Responsive Web Design'] },
   { label: 'Mobile',        color: '#7c3aed', skills: ['React Native', 'Expo', 'Android Development', 'NativeWind', 'Cross-Platform Dev'] },
   { label: 'Backend',       color: '#68a063', skills: ['Spring Boot', 'Node.js', 'Express.js', 'RESTful APIs', 'Microservices', 'WebSockets'] },
