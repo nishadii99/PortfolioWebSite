@@ -8,6 +8,8 @@ const LANG_COLORS = {
   Java: '#b07219',
   HTML: '#e34c26',
   CSS: '#264de4',
+  Python: '#3572A5',
+  Go: '#00ADD8',
 };
 
 export default function Projects() {

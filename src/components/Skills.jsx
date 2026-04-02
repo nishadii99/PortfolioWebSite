@@ -12,6 +12,7 @@ const sphereItems = [
   { text: 'HTML5',       color: '#e34c26', icon: `${DEV}/html5/html5-original.svg` },
   { text: 'CSS3',        color: '#264de4', icon: `${DEV}/css3/css3-original.svg` },
   { text: 'SQL',         color: '#00758f', icon: `${DEV}/mysql/mysql-original.svg` },
+  { text: 'Go',          color: '#00ADD8', icon: `${DEV}/go/go-original.svg` },
   // Frontend
   { text: 'React',       color: '#61dafb', icon: `${DEV}/react/react-original.svg` },
   { text: 'Next.js',     color: '#aaaaaa', icon: `${DEV}/nextjs/nextjs-original.svg` },
