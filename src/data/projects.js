@@ -1,5 +1,15 @@
 export const projects = [
   {
+    name: "Go Web Scraper API – Link & Image Extraction Tool",
+    repo: "Go-Project",
+    description: "A Go-based web scraper API built with Gin and Colly to extract links, images, and page titles from any website.",
+    language: "Go",
+    langColor: "#00ADD8",
+    url: "https://github.com/nishadii99/Go-Project",
+    tags: ["Go", "Gin", "Colly", "Web Scraping", "REST API"],
+    featured: true,
+  },
+  {
     name: "Ikman Web Scraper – QA-Focused Data Extraction Tool",
     repo: "ikman-web-scraper",
     description: "A web scraper for ikman.lk that extracts data from product listings and saves it to a CSV file.",
